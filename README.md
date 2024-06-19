@@ -8,7 +8,7 @@
 
 ## Check out the [Figma wireframes for little lemon](https://www.figma.com/design/uPCi7Jnts19XhE4eME3VZU/wireframes?node-id=0-1&t=kXbcadpiKyPjSc9k-1)
 
-<img src="ll-wireframes.png" alt="Little Lemon page 1" width="700" />
+<img src="ll-wireframes.png" alt="Little Lemon page 1" width="900" />
 
 ## Check out the [Figma prototype for little lemon capstone project](https://www.figma.com/design/Jo78tKGLI9UtpjAV1VFX8w/Capstone-project?node-id=25-378&t=YkVTrjlAuomzVeLG-1)
 
