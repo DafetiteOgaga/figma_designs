@@ -1,6 +1,6 @@
 ## Check out the [Figma prototype design for little lemon](https://www.figma.com/design/u7zbSHNIFWE0rwz6fZt178/high-fidelity-visual-design?node-id=0-1&t=3uFdohozHKiRJpxq-1)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
     <img src="ll-figma1.png" alt="Little Lemon page 1" width="250" />
     <img src="ll-figma2.png" alt="Little Lemon page 2" width="250" />
     <img src="ll-figma3.png" alt="Little Lemon page 3" width="250" />
