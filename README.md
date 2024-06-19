@@ -32,7 +32,7 @@
     <img src="ll-wireframes-figma-capstone3.png" alt="Little Lemon page 3" width="250" />
 </div>
 
-### The [Figma wireframes for little lemon capstone project](https://www.figma.com/design/Jo78tKGLI9UtpjAV1VFX8w/Capstone-project?node-id=0-1&t=YkVTrjlAuomzVeLG-1)
+### The [Figma wireframes](https://www.figma.com/design/Jo78tKGLI9UtpjAV1VFX8w/Capstone-project?node-id=0-1&t=YkVTrjlAuomzVeLG-1)
 <br><br>
 
 ### figma_designs and README.md were auto created using createRepo command in [*Custom Commands*](https://github.com/DafetiteOgaga/custom_commands)
