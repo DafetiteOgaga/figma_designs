@@ -1,9 +1,9 @@
 ## Check out the [Figma prototype design for little lemon](https://www.figma.com/design/u7zbSHNIFWE0rwz6fZt178/high-fidelity-visual-design?node-id=0-1&t=3uFdohozHKiRJpxq-1)
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
-    <img src="ll-figma1.png" alt="Little Lemon page 1" width="300" />
-    <img src="ll-figma2.png" alt="Little Lemon page 2" width="300" />
-    <img src="ll-figma3.png" alt="Little Lemon page 3" width="300" />
+    <img src="ll-figma1.png" alt="Little Lemon page 1" width="280" />
+    <img src="ll-figma2.png" alt="Little Lemon page 2" width="280" />
+    <img src="ll-figma3.png" alt="Little Lemon page 3" width="280" />
 </div>
 
 ## Check out the [Figma wireframes for little lemon](https://www.figma.com/design/uPCi7Jnts19XhE4eME3VZU/wireframes?node-id=0-1&t=kXbcadpiKyPjSc9k-1)
